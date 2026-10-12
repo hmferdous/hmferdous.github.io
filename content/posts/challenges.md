@@ -1,6 +1,6 @@
 ---
 title: "Challenges of Product Managers Coming from a Business Background"
-date: '2023-04-19T09:20:15+06:00'
+date: '2025-01-19T09:20:15+06:00'
 draft: false
 
 tags: ["API", "system"]
